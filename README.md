@@ -1,4 +1,3 @@
-![github-header-image](https://github.com/tyletaey/tyletaey/assets/110245701/6b2bb034-c27f-4fd5-8a62-734189df47c6)
 # 🤗 Nice to meet you!
 Welcome to my github page. You can call me Taey. I love to learning and show my work here.
 
